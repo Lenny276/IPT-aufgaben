@@ -35,4 +35,36 @@ Ich habe gelernt wie man mit Markdown arbeitet.
 
 *kursiv* **fett** ***fett und kursiv***
 
+**Unordered list**  
+`- item 1`
+`- item 2`
+`- item 3`
+
+- item 1
+- item 2
+- item 3
+
+**Ordered list**
+`1. item 1`
+`1. item 2`
+`1. item 3`
+
+1. item 1
+1. item 2
+1. item 3
+
+**Task list**
+`- [x] Aufgabe erledigt`
+`- [ ] Aufgabe nicht erledigt`
+
+- [x] Aufgabe erledigt  
+- [ ] Aufgabe nicht erledigt
+
+**Link einfügen**  
+`Auf YouTube gibt es viele [coole Videos](https://www.youtube.com/watch?v=E4WlUXrJgy4).`
+
+Auf YouTube gibt es viele [coole Videos](https://www.youtube.com/watch?v=E4WlUXrJgy4).
+
+
+
 
