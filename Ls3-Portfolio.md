@@ -65,6 +65,15 @@ Ich habe gelernt wie man mit Markdown arbeitet.
 
 Auf YouTube gibt es viele [coole Videos](https://www.youtube.com/watch?v=E4WlUXrJgy4).
 
+**Bilder einfügen**  
+`![Beschreibung des Bildes](https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?cs=srgb&dl=pexels-chevanon-1108099.jpg&fm=jpg)`
+
+![Beschreibung des Bildes](https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?cs=srgb&dl=pexels-chevanon-1108099.jpg&fm=jpg) 
+
+**Bild mit HTML und grösser verändern**
+`<img src="Bild url" width="300">`
+
+<img src="https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?cs=srgb&dl=pexels-chevanon-1108099.jpg&fm=jpg" width="300">
 
 
 
